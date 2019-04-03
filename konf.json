@@ -1,0 +1,11 @@
+{
+    "min_xy":    -2.0,
+    "max_xy":     2.0,
+    "min_x":      0.0,
+    "min_y":     -1.0,
+    "min_f":      3.0,
+    "evolucija":  500,
+    "populacija": 100,
+    "iteracija":    1,
+    "mutacija":   0.1
+}
